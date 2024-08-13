@@ -1,0 +1,6 @@
+.env
+tfplan
+terraform.tfstate.backup
+terraform.tfstate
+.terraform.lock.hcl
+terraform-provider-spotify_v0.2.7.exe
