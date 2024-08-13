@@ -1,3 +1,4 @@
+# Spotify Provider
 terraform {
   required_providers {
     spotify = {
@@ -7,7 +8,7 @@ terraform {
   }
 }
 
-provider "spotify" {
+provider "spotify" { 
   # Configuration options
   api_key = var.spotify_api_key
 }
